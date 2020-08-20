@@ -6,6 +6,6 @@
   
 #### 
 <div>
-<img style="width: 500px; max-width: 500px;" src="https://loading.io/mod/background/wave/index.svg" />
+<img style="width: 100%;" src="https://loading.io/mod/background/wave/index.svg" />
 </div>
 
