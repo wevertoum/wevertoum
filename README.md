@@ -9,10 +9,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wevertonfr/)
 
 ![](https://komarev.com/ghpvc/?username=wevertoum&color=blue&style=flat)
-  
-<p align="center">
-   <h1>My top languages</h1>
-</p>
 
 <br>
 
