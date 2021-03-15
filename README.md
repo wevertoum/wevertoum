@@ -8,11 +8,13 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wevertonfr/)
 
+![](https://komarev.com/ghpvc/?username=wevertoum&color=blue&style=flat)
   
-# My top languages
+<p align="center">
+   <h1>My top languages</h1>
+</p>
 
 <br>
-<br/>
 
 <p align="center">
    <img
@@ -25,5 +27,3 @@
        src="https://github-readme-stats.vercel.app/api?username=wevertoum&show_icons=true&theme=synthwave"
     />
 </p>
-
-![](https://komarev.com/ghpvc/?username=wevertoum&color=blue&style=flat)
