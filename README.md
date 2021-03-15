@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### [talk to me 👨🏾‍💻](https://weverton.me)
+### [contact me 👨🏾‍💻](https://weverton.me)
 
 - 🔭  I’m currently working on React JS and React Native projects
 - 🚴  I love music and bikes
