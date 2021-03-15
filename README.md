@@ -11,7 +11,19 @@
   
 # My top languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wevertoum&theme=synthwave&show_icons=true&layout=compact)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wevertoum&hide=contribs,prs&theme=synthwave&show_icons=true) 
+<br>
+<br/>
+
+<p align="center">
+   <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wevertoum&layout=compact&theme=synthwave"
+    />
+  <img   
+      align="center"
+      height="165" 
+       src="https://github-readme-stats.vercel.app/api?username=wevertoum&show_icons=true&theme=synthwave"
+    />
+</p>
 
 ![](https://komarev.com/ghpvc/?username=wevertoum&color=blue&style=flat)
