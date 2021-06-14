@@ -23,3 +23,5 @@
        src="https://github-readme-stats.vercel.app/api?username=wevertoum&show_icons=true&theme=tokyonight"
     />
 </p>
+
+![Snake animation](https://github.com/wevertoum/wevertoum/blob/output/github-contribution-grid-snake.svg)
