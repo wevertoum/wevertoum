@@ -25,7 +25,3 @@
 </p>
 
 ![Snake animation](https://github.com/wevertoum/wevertoum/blob/output/github-contribution-grid-snake.svg)
-
-<img src="https://github.com/wevertoum/wevertoum/blob/master/images/stat.svg" alt="Weverton WakaTime Activity"/>
-
-
