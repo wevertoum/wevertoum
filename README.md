@@ -2,7 +2,7 @@
 
 ### [contact me 👨🏾‍💻](https://weverton.me)
 
-- 🔭  I’m currently working on React JS and React Native projects
+- 🔭  I’m currently working on React JS and Next JS projects
 - 🚴  I love music and bikes
 
 
@@ -10,7 +10,6 @@
 
 ![](https://komarev.com/ghpvc/?username=wevertoum&color=blue&style=flat)
 
-<br>
 
 ![Snake animation](https://github.com/wevertoum/wevertoum/blob/output/github-contribution-grid-snake.svg)
 
