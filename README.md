@@ -16,6 +16,6 @@
 <br>
 
 <p align="center">
-<img height="300"  align="center" src="https://wakatime.com/share/@wevertoum/640bc105-c981-4c4f-95ed-7fa4b6e513f8.svg">
-<img height="300"  align="center" src="https://wakatime.com/share/@wevertoum/35c4ca59-81ba-498a-ace4-09a93307a645.svg">
+<img height="300"  align="center" src="https://wakatime.com/share/@wevertoum/cdf7e526-350b-43ff-ae33-bc936b61f9f5.svg">
+<img height="300"  align="center" src="https://wakatime.com/share/@wevertoum/d81a5cf5-ce41-440b-ab05-4a8c915aae54.svg">
 </p>
