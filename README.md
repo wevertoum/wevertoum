@@ -2,7 +2,7 @@
 
 ### [contact me 👨🏾‍💻](https://weverton.me)
 
-- 🔭  I’m currently working on React JS and Next JS projects
+- 🔭  I’m currently working on React JS, React Native and Next JS projects
 - 🚴  I love music and bikes
 
 
