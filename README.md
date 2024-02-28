@@ -2,7 +2,7 @@
 
 ### [contact me 👨🏾‍💻](https://weverton.me)
 
-- 🔭  I’m currently working on React JS, React Native and Next JS projects
+- 🔭  I’m currently working on ReactJS, React Native and NextJS projects
 - 🚴  I love music and bikes
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wevertoum&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
