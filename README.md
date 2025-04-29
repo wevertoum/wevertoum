@@ -11,4 +11,4 @@
 
 ![Snake animation](https://github.com/wevertoum/wevertoum/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://wakatime.com/share/@wevertoum/8fa0f975-ebcd-492d-97fe-fe4f8608a632.svg" alt="WakaTime stats" width="500px" />
+[![wakatime](https://wakatime.com/badge/user/23a27b6b-815f-4cef-8a6c-21bdf1f9c3ed.svg)](https://wakatime.com/@23a27b6b-815f-4cef-8a6c-21bdf1f9c3ed)
