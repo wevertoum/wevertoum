@@ -9,6 +9,4 @@
 
 ![](https://komarev.com/ghpvc/?username=wevertoum&color=blue&style=flat)
 
-![Snake animation](https://github.com/wevertoum/wevertoum/blob/output/github-contribution-grid-snake.svg)
-
 [![wakatime](https://wakatime.com/badge/user/23a27b6b-815f-4cef-8a6c-21bdf1f9c3ed.svg)](https://wakatime.com/@23a27b6b-815f-4cef-8a6c-21bdf1f9c3ed)
