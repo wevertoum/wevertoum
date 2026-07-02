@@ -2,7 +2,6 @@
 
 ### [contact me 👨🏾‍💻](https://weverton.me)
 
-- 🔭  I’m currently working on ReactJS, React Native and NestJs projects
 - 🚴  I love running, music and cycling
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wevertonfr/)
