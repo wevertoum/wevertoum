@@ -9,3 +9,6 @@
 ![](https://komarev.com/ghpvc/?username=wevertoum&color=blue&style=flat)
 
 [![wakatime](https://wakatime.com/badge/user/23a27b6b-815f-4cef-8a6c-21bdf1f9c3ed.svg)](https://wakatime.com/@23a27b6b-815f-4cef-8a6c-21bdf1f9c3ed)
+
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=wevertoum)](https://github.com/stats-organization/github-stats-extended)
