@@ -1,14 +1,32 @@
-### Hi there 👋
+# Hi there 👋
 
-### [contact me 👨🏾‍💻](https://weverton.me)
+### Senior Software Engineer · AI · Full Stack
 
-- 🚴  I love running, music and cycling
+I build **AI-powered products** and **scalable web applications**, with a focus on turning complex problems into simple, reliable experiences.
 
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wevertonfr/)
+`TypeScript` · `React` · `Node.js` · `AWS` · `AI`
 
+🚴 Cycling · 🏃 Running · 🎷 Music
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wevertonfr/)
+[![Website](https://img.shields.io/badge/weverton.me-%23111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://weverton.me)
 ![](https://komarev.com/ghpvc/?username=wevertoum&color=blue&style=flat)
 
-[![wakatime](https://wakatime.com/badge/user/23a27b6b-815f-4cef-8a6c-21bdf1f9c3ed.svg)](https://wakatime.com/@23a27b6b-815f-4cef-8a6c-21bdf1f9c3ed)
+<br>
 
+### 💻 Coding Activity
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=wevertoum)](https://github.com/stats-organization/github-stats-extended)
+<table>
+  <tr>
+    <td>
+      <a href="https://wakatime.com/@wevertoum">
+        <img src="https://github-stats-extended.vercel.app/api/wakatime?username=wevertoum&layout=compact&custom_title=Hours%20spent%20coding&langs_count=6&theme=aura" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github-stats-extended.vercel.app/api/top-langs?username=wevertoum&langs_count=6&layout=compact&theme=aura">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=wevertoum&langs_count=6&layout=compact&theme=aura" />
+      </a>
+    </td>
+  </tr>
+</table>
